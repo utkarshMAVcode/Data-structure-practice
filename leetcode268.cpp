@@ -1,4 +1,4 @@
-// 258. missing number
+// 268. missing number
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
